@@ -1,0 +1,32 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Compiled C binaries and object files
+*.o
+*.obj
+*.out
+BinarySearch
+DFS
+lab07
+linearSearch
+logisticRegression
+
+# System and editor files
+.directory
+.DS_Store
+.vscode/
+.idea/
